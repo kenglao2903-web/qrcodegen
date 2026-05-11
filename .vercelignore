@@ -1,0 +1,9 @@
+node_modules
+.output
+.wrangler
+.lovable
+dist
+*.log
+.env
+.env.*
+!.env.example
